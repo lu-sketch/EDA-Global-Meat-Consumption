@@ -1,5 +1,7 @@
 # 🌍📊 Economic Data Analysis: Global Meat Consumption 📈🍖
 
+![Project Overview Image](https://drive.google.com/uc?export=view&id=1vudsuVfy0ULFRcdumSgAvseSNYn3YHs7)
+
 Welcome to this project focused on exploring the relationship between global meat consumption and economic indicators like GDP growth. 🥩✨
 
 ## 🔍 Project Overview
@@ -19,4 +21,26 @@ Our project provides a detailed analysis of:
 
 ---
 
-#data#analytics #datascience #trade #plotly #python #pandas
+## 🛠️ How to Run the Project
+
+### Option 1: Run Directly in Google Colab
+1. Click the link below to open the notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_HERE)
+
+2. Once opened, click "Run All" to execute the notebook. You might need to allow access to Google Drive or upload data if prompted.
+
+### Option 2: Clone the Repository Locally
+1. Clone this repository using the command:
+    ```bash
+    git clone https://github.com/yourusername/repo-name.git
+    ```
+2. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Run the notebook locally using Jupyter or VS Code.
+
+---
+
+#data #analytics #datascience #trade #plotly #python #pandas
