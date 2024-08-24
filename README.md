@@ -28,6 +28,8 @@ Our project provides a detailed analysis of:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/file/d/1Pr0tMF85pV0lDNtNGjLqI4oawM00eUZG/view?usp=sharing)
 
+<a href="https://drive.google.com/file/d/1Pr0tMF85pV0lDNtNGjLqI4oawM00eUZG/view?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+
 2. Once opened, click "Run All" to execute the notebook. You might need to allow access to Google Drive or upload data if prompted.
 
 ### Option 2: Clone the Repository Locally
