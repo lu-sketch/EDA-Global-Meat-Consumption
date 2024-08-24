@@ -26,7 +26,7 @@ Our project provides a detailed analysis of:
 ### Option 1: Run Directly in Google Colab
 1. Click the link below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://drive.google.com/file/d/1Pr0tMF85pV0lDNtNGjLqI4oawM00eUZG/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1Pr0tMF85pV0lDNtNGjLqI4oawM00eUZG)
 
 2. Once opened, click "Run All" to execute the notebook. You might need to allow access to Google Drive or upload data if prompted.
 
