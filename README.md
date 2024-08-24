@@ -1,6 +1,6 @@
 # 🌍📊 Economic Data Analysis: Global Meat Consumption 📈🍖
 
-![Project Overview Image](https://drive.google.com/uc?export=view&id=1vudsuVfy0ULFRcdumSgAvseSNYn3YHs7)
+![Project Overview Image](https://drive.google.com/file/d/1Pr0tMF85pV0lDNtNGjLqI4oawM00eUZG/view?usp=sharing)
 
 Welcome to this project focused on exploring the relationship between global meat consumption and economic indicators like GDP growth. 🥩✨
 
