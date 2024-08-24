@@ -1,6 +1,6 @@
 # 🌍📊 Economic Data Analysis: Global Meat Consumption 📈🍖
 
-![Project Overview Image](https://drive.google.com/file/d/1Pr0tMF85pV0lDNtNGjLqI4oawM00eUZG/view?usp=sharing)
+![Project Overview Image](https://drive.google.com/file/d/1vudsuVfy0ULFRcdumSgAvseSNYn3YHs7/view?usp=sharing)
 
 Welcome to this project focused on exploring the relationship between global meat consumption and economic indicators like GDP growth. 🥩✨
 
@@ -26,7 +26,7 @@ Our project provides a detailed analysis of:
 ### Option 1: Run Directly in Google Colab
 1. Click the link below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_HERE)
+[![Open In Colab](https://drive.google.com/file/d/1Pr0tMF85pV0lDNtNGjLqI4oawM00eUZG/view?usp=sharing)
 
 2. Once opened, click "Run All" to execute the notebook. You might need to allow access to Google Drive or upload data if prompted.
 
