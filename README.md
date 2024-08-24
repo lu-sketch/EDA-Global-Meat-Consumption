@@ -26,7 +26,7 @@ Our project provides a detailed analysis of:
 ### Option 1: Run Directly in Google Colab
 1. Click the link below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/meat_trends.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/file/d/1Pr0tMF85pV0lDNtNGjLqI4oawM00eUZG/view?usp=sharing)
 
 2. Once opened, click "Run All" to execute the notebook. You might need to allow access to Google Drive or upload data if prompted.
 
